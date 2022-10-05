@@ -1,1 +1,1 @@
-i am beginning to doo hard things
+i am beginning to do hard things
