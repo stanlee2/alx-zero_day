@@ -1,1 +1,1 @@
-Learning about Git
+Advanced Learning on Git
